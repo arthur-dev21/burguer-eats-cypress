@@ -1,0 +1,60 @@
+{
+    "signup" : {
+        "name": "Arthur Kenned",
+        "cpf" : "00099988811",
+        "email": "arthur@gmail.com",
+        "whatsapp": "81989876545" ,
+
+        "address" : {
+            "postalcode" : "50870110",
+            "street" : "Rua Capitão Manuel de Aguiar",
+            "number" : "110",
+            "details":"Casa",
+            "district" : "Areias",
+            "city_state": "Recife/PE"
+        },
+
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    
+        "cpf_inv" :{
+            "name": "Arthur Kenned",
+            "cpf" : "000999888AA",
+            "email": "arthur@gmail.com",
+            "whatsapp": "81989876545" ,
+    
+            "address" : {
+                "postalcode" : "50870110",
+                "street" : "Rua Capitão Manuel de Aguiar",
+                "number" : "110",
+                "details":"Casa",
+                "district" : "Areias",
+                "city_state": "Recife/PE"
+            },
+    
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+
+        "email_inv" : {
+            "name": "Arthur Kenned",
+            "cpf" : "00099988811",
+            "email": "arthur.com",
+            "whatsapp": "81989876545" ,
+    
+            "address" : {
+                "postalcode" : "50870110",
+                "street" : "Rua Capitão Manuel de Aguiar",
+                "number" : "110",
+                "details":"Casa",
+                "district" : "Areias",
+                "city_state": "Recife/PE"
+            },
+    
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+    
+}
