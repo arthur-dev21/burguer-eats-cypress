@@ -33,6 +33,9 @@ Voce tera varias opçoes para rodar esse projeto na sua maquina
 - JavaScript
 - NodeJs
 - Cypress
+<br><br>
+## 🛠️ O projeto esta rodando na Nuvem 
+https://dashboard.cypress.io/invitation/e6963752-7c26-4f3a-a55c-3e1e67876feb
 
 
 
