@@ -2,5 +2,8 @@
 <br>
 Burguer-eats 
 
-Projeto de Automaçao de Testes com Cypress , Cypress é um framework open-source que possibilita a escrita de testes automatizados de forma fácil, rápida e confiável, tudo em JavaScript
+Projeto de Automaçao de Testes com Cypress , Cypress é um framework open-source que possibilita a escrita de testes automatizados de forma fácil, rápida e confiável, tudo em JavaScript . 
+
+<br> 
+> :construction: Projeto em construção :construction:
 
